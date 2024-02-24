@@ -1,2 +1,2 @@
 # Prepcourse-Henry
-Este es un repositorio de prueba de modulo 2 precourse
+Ramiro Avellaneda Este es un repositorio de prueba de modulo 2 Precourse Henry
